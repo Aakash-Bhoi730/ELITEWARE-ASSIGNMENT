@@ -1,0 +1,19 @@
+{
+  "name": "elitewaretest",
+  "version": "1.0.0",
+  "description": "ELiteWare Solutions Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aakash Bhoi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^7.5.0",
+    "mongoose-paginate-v2": "^1.7.31",
+    "nodemon": "^3.0.1"
+  }
+}
